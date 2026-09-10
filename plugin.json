@@ -1,0 +1,29 @@
+{
+  "name": "icepanel",
+  "displayName": "IcePanel",
+  "description": "Build and maintain your architecture model in IcePanel via its REST API: model objects, connections, technologies, Level 1/2/3 diagrams, and DDD context maps translated from a sketch.",
+  "version": "1.2.0",
+  "author": {
+    "name": "IcePanel",
+    "url": "https://icepanel.io"
+  },
+  "homepage": "https://developer.icepanel.io",
+  "repository": "https://github.com/acornsoft/icepanel-plugin",
+  "license": "MIT",
+  "skills": "skills",
+  "keywords": [
+    "icepanel",
+    "c4 model",
+    "architecture",
+    "diagrams",
+    "ddd",
+    "context map",
+    "devtools",
+    "grok",
+    "grok-build"
+  ],
+  "categories": [
+    "architecture",
+    "devtools"
+  ]
+}
