@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "plugins": {
+    "icepanel": {
+      "components": {
+        "skills": [
+          {
+            "name": "creating-c4-diagrams",
+            "description": "Build and maintain C4 architecture models in IcePanel via its REST API. Model objects (actors, systems, apps, stores, components), connections, and Level 1/2/3 diagrams with hand-authored layout. Use this whenever the user wants architecture put into IcePanel, wants to import or sync a landscape, wants existing diagrams/descriptions/codebases turned into a C4 model, or asks for context/app/component diagrams."
+          },
+          {
+            "name": "translating-context-maps",
+            "description": "Turn an image or sketch of a DDD context map into IcePanel model objects and connections. Bounded contexts as groups, upstream/downstream relationships as connections, and the context map patterns (OHS, ACL, CF, SK, PL, C/S, Partnership) as tags. Use whenever the user supplies a photo, screenshot, whiteboard shot, Miro or draw.io export of a context map, or otherwise describes bounded contexts and their relationships, and wants it in IcePanel."
+          }
+        ]
+      }
+    }
+  }
+}
